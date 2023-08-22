@@ -1,0 +1,57 @@
+* {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-title {
+    font-weight: lighter;
+}
+
+.card-text {
+    font-weight: lighter;
+}
+
+.text-secondary {
+    font-weight: lighter;
+}
+
+.texto-primario {
+    font-size: 20px;
+}
+
+.texto-menor {
+    font-size: 16px;
+}
+
+.logo-nav {
+    height: 2.5em;
+}
+
+.logo {
+    margin: 7px;
+    width: auto;
+}
+
+.navbar-brand {
+    margin: auto;
+}
+
+.footer {
+    text-align: center;
+}
+
+.logoFooter {
+    width: 5em;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.textoFooter {
+    color: #707070;
+    font-weight: lighter;
+    margin: 8px;
+}
+
+.form-control {
+    font-weight: lighter;
+}
